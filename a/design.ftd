@@ -1,0 +1,6 @@
+-- ftd.column chapter:
+caption title:
+optional string epigraph:
+
+--- ftd.text:
+text: $title
