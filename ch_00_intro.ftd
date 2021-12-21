@@ -1,5 +1,11 @@
--- import: fpm_book/interface as book
+-- import: fifthtry/fpm-book/interface as book
 
 -- book.chapter: Rust book
 
 -- book.section: This is a title
+
+the body goes here
+
+-- book.p:
+
+this is a paragraph.

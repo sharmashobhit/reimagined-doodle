@@ -2,3 +2,6 @@
 
 -- fpm.package:
 name: book
+
+-- fpm.dependency: fifthtry/fpm-book
+repo: github
