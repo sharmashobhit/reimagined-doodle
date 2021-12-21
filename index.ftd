@@ -1,29 +1,7 @@
 -- import: fifthtry/fpm-book/interface as book
--- import: ch_00_intro as ch_00
+-- import: toc
 
--- book.toc-item list toc:
-
--- toc:
-title: Introduction
-id: test
-url: /ch_00_intro/
-
--- book.toc-item list child:
-
--- child:
-title: Beginner Chapter
-id: test
-url: /ch_00_intro/
-
--- toc:
-title: Beginner Chapter
-id: test
-url: /ch_00_intro/
-children: $child
-
-
--- book.title_page: The Rust Programming Language
-toc: $toc
+-- book.chapter: The Rust Programming Language
 
 -- book.section:
 
