@@ -1,7 +1,7 @@
 -- import: fpm
 
 -- fpm.package:
-name: book
+name: reimagined-doodle
 
 -- fpm.dependency: fifthtry/fpm-book
 repo: github

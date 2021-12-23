@@ -1,9 +1,9 @@
--- import: fifthtry/fpm-book/interface as book
+-- import: fifthtry/fpm-book as article
 -- import: toc
 
--- book.chapter: Introduction
+-- article.h1: Introduction
 
--- book.section:
+-- article.markdown:
 
 > Note: This edition of the book is the same as [The Rust Programming
 > Language][nsprust] available in print and ebook format from [No Starch
